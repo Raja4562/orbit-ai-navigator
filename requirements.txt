@@ -1,0 +1,11 @@
+streamlit
+folium
+streamlit-folium
+geopy
+requests
+torch
+transformers
+peft
+bitsandbytes
+accelerate
+scipy

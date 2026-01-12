@@ -1,0 +1,3431 @@
+[
+    {
+        "name": "Dave & Buster's",
+        "category": "restaurant",
+        "address": NaN,
+        "coords": [
+            37.4184027,
+            -121.8978827
+        ]
+    },
+    {
+        "name": "Milpitas Community Library",
+        "category": "library",
+        "address": NaN,
+        "coords": [
+            37.4334312,
+            -121.8984208
+        ]
+    },
+    {
+        "name": "Jollibee",
+        "category": "fast_food",
+        "address": NaN,
+        "coords": [
+            37.4161154,
+            -121.899288
+        ]
+    },
+    {
+        "name": "Darda Seafood Restaurant",
+        "category": "restaurant",
+        "address": "Barber Court",
+        "coords": [
+            37.4235491,
+            -121.917432
+        ]
+    },
+    {
+        "name": "Koong's Restaurant",
+        "category": "restaurant",
+        "address": "North Milpitas Boulevard",
+        "coords": [
+            37.4345252,
+            -121.902181
+        ]
+    },
+    {
+        "name": "Mountain Mike's",
+        "category": "restaurant",
+        "address": NaN,
+        "coords": [
+            37.4342909,
+            -121.901919
+        ]
+    },
+    {
+        "name": "La Milpa",
+        "category": "restaurant",
+        "address": "North Milpitas Boulevard",
+        "coords": [
+            37.4346743,
+            -121.90227
+        ]
+    },
+    {
+        "name": "McDonald's",
+        "category": "fast_food",
+        "address": "North Milpitas Boulevard",
+        "coords": [
+            37.4344507,
+            -121.901318
+        ]
+    },
+    {
+        "name": "IHOP",
+        "category": "restaurant",
+        "address": "East Calaveras Boulevard",
+        "coords": [
+            37.433996,
+            -121.89326
+        ]
+    },
+    {
+        "name": "Taiwan Cafe",
+        "category": "restaurant",
+        "address": "North Abel Street",
+        "coords": [
+            37.4359738,
+            -121.910017
+        ]
+    },
+    {
+        "name": "Banana Leaf",
+        "category": "restaurant",
+        "address": "Ranch Drive",
+        "coords": [
+            37.4281277,
+            -121.9200722
+        ]
+    },
+    {
+        "name": "Jimmy\u2019s Billiards",
+        "category": "pub",
+        "address": "South Milpitas Boulevard",
+        "coords": [
+            37.4271919,
+            -121.896212
+        ]
+    },
+    {
+        "name": "Home Town Buffet",
+        "category": "restaurant",
+        "address": NaN,
+        "coords": [
+            37.4279744,
+            -121.9191455
+        ]
+    },
+    {
+        "name": "Kohl's",
+        "category": "department_store",
+        "address": "Great Mall Drive",
+        "coords": [
+            37.4170186,
+            -121.8995682
+        ]
+    },
+    {
+        "name": "99 Ranch Market",
+        "category": "supermarket",
+        "address": "Barber Lane",
+        "coords": [
+            37.4227499,
+            -121.916896
+        ]
+    },
+    {
+        "name": "Romano's Macaroni Grill",
+        "category": "restaurant",
+        "address": NaN,
+        "coords": [
+            37.4273611,
+            -121.920653
+        ]
+    },
+    {
+        "name": "Subway",
+        "category": "fast_food",
+        "address": NaN,
+        "coords": [
+            37.4280315,
+            -121.9201885
+        ]
+    },
+    {
+        "name": "Milpitas Public Library",
+        "category": "library",
+        "address": "North Main Street",
+        "coords": [
+            37.4324266,
+            -121.9070434
+        ]
+    },
+    {
+        "name": "Smart & Final",
+        "category": "supermarket",
+        "address": "Jacklin Road",
+        "coords": [
+            37.4476401,
+            -121.902509
+        ]
+    },
+    {
+        "name": "Ume",
+        "category": "cafe",
+        "address": "Barber Court",
+        "coords": [
+            37.4236974,
+            -121.9178604
+        ]
+    },
+    {
+        "name": "ABC Seafood Restaurant",
+        "category": "restaurant",
+        "address": "Barber Lane",
+        "coords": [
+            37.4194365,
+            -121.9156305
+        ]
+    },
+    {
+        "name": "China Palace Restaurant",
+        "category": "restaurant",
+        "address": "Barber Lane",
+        "coords": [
+            37.419187,
+            -121.9158392
+        ]
+    },
+    {
+        "name": "England Rose Garden",
+        "category": "restaurant",
+        "address": "Barber Lane",
+        "coords": [
+            37.4193313,
+            -121.9156911
+        ]
+    },
+    {
+        "name": "FT BBQ",
+        "category": "restaurant",
+        "address": "Barber Lane",
+        "coords": [
+            37.41949,
+            -121.9160142
+        ]
+    },
+    {
+        "name": "Family Delight Cafe",
+        "category": "restaurant",
+        "address": "Barber Lane",
+        "coords": [
+            37.4194882,
+            -121.91592
+        ]
+    },
+    {
+        "name": "Shanghai Ding Sheng Restaurant",
+        "category": "restaurant",
+        "address": "Barber Lane",
+        "coords": [
+            37.4192476,
+            -121.9157876
+        ]
+    },
+    {
+        "name": "Thai Cafe",
+        "category": "restaurant",
+        "address": "Barber Lane",
+        "coords": [
+            37.419121,
+            -121.9159581
+        ]
+    },
+    {
+        "name": "Top Cafe",
+        "category": "restaurant",
+        "address": "Barber Lane",
+        "coords": [
+            37.4194935,
+            -121.916095
+        ]
+    },
+    {
+        "name": "Truong Thanh Vietnamese Restaurant",
+        "category": "restaurant",
+        "address": "Barber Lane",
+        "coords": [
+            37.4194187,
+            -121.9157898
+        ]
+    },
+    {
+        "name": "Starbucks",
+        "category": "cafe",
+        "address": "North McCarthy Boulevard",
+        "coords": [
+            37.4216596,
+            -121.921609
+        ]
+    },
+    {
+        "name": "Columbia",
+        "category": "clothes",
+        "address": NaN,
+        "coords": [
+            37.4139352,
+            -121.897445
+        ]
+    },
+    {
+        "name": "Building 21 Cafetaria",
+        "category": "restaurant",
+        "address": NaN,
+        "coords": [
+            37.4168301,
+            -121.917101
+        ]
+    },
+    {
+        "name": "Sumiya Bento",
+        "category": "restaurant",
+        "address": "Barber Lane",
+        "coords": [
+            37.4207365,
+            -121.9166172
+        ]
+    },
+    {
+        "name": "Bombay Chaat House",
+        "category": "restaurant",
+        "address": NaN,
+        "coords": [
+            37.4234632,
+            -121.9046154
+        ]
+    },
+    {
+        "name": "Lion Supermarket",
+        "category": "supermarket",
+        "address": "North Milpitas Boulevard",
+        "coords": [
+            37.4565039,
+            -121.910254
+        ]
+    },
+    {
+        "name": "Ross",
+        "category": "department_store",
+        "address": "Ranch Road",
+        "coords": [
+            37.4295497,
+            -121.9221166
+        ]
+    },
+    {
+        "name": "Starbucks",
+        "category": "cafe",
+        "address": "Ranch Drive",
+        "coords": [
+            37.4282894,
+            -121.920931
+        ]
+    },
+    {
+        "name": "Togo's",
+        "category": "fast_food",
+        "address": "Ranch Drive",
+        "coords": [
+            37.4285315,
+            -121.920688
+        ]
+    },
+    {
+        "name": "Happi House",
+        "category": "fast_food",
+        "address": NaN,
+        "coords": [
+            37.4284067,
+            -121.9208091
+        ]
+    },
+    {
+        "name": "Lotus",
+        "category": "fast_food",
+        "address": NaN,
+        "coords": [
+            37.4283447,
+            -121.9208648
+        ]
+    },
+    {
+        "name": "Chili Garden",
+        "category": "restaurant",
+        "address": "Barber Court",
+        "coords": [
+            37.4237161,
+            -121.9177828
+        ]
+    },
+    {
+        "name": "Layang Layang",
+        "category": "restaurant",
+        "address": "West Calaveras Boulevard",
+        "coords": [
+            37.4289207,
+            -121.91109
+        ]
+    },
+    {
+        "name": "The Porridge",
+        "category": "restaurant",
+        "address": "North Milpitas Boulevard",
+        "coords": [
+            37.4551361,
+            -121.910212
+        ]
+    },
+    {
+        "name": "Dish N Dash",
+        "category": "restaurant",
+        "address": "Ranch Drive",
+        "coords": [
+            37.4289047,
+            -121.919259
+        ]
+    },
+    {
+        "name": "Loving Hut",
+        "category": "restaurant",
+        "address": "Barber Lane",
+        "coords": [
+            37.4208679,
+            -121.916324
+        ]
+    },
+    {
+        "name": "Cajun Crack'n",
+        "category": "restaurant",
+        "address": "Ranch Drive",
+        "coords": [
+            37.4296565,
+            -121.919771
+        ]
+    },
+    {
+        "name": "Tirupathi Bhimas",
+        "category": "restaurant",
+        "address": "South Abel Street",
+        "coords": [
+            37.4129357,
+            -121.903456
+        ]
+    },
+    {
+        "name": "Green Barn",
+        "category": "restaurant",
+        "address": NaN,
+        "coords": [
+            37.4283484,
+            -121.9197692
+        ]
+    },
+    {
+        "name": "R\u0101wASF",
+        "category": "fast_food",
+        "address": "North Milpitas Boulevard",
+        "coords": [
+            37.454736,
+            -121.911602
+        ]
+    },
+    {
+        "name": "Thaibodia Bistro",
+        "category": "restaurant",
+        "address": "South Main Street",
+        "coords": [
+            37.4259218,
+            -121.9053264
+        ]
+    },
+    {
+        "name": "Apni Mandi Farmers Market",
+        "category": "supermarket",
+        "address": "South Park Victoria Drive",
+        "coords": [
+            37.4184353,
+            -121.874888
+        ]
+    },
+    {
+        "name": "Parktown Pizza Company",
+        "category": "restaurant",
+        "address": "Landess Avenue",
+        "coords": [
+            37.4171928,
+            -121.8736744
+        ]
+    },
+    {
+        "name": "Pho Thin Ha Noi",
+        "category": "restaurant",
+        "address": "Serra Way",
+        "coords": [
+            37.4283972,
+            -121.9072618
+        ]
+    },
+    {
+        "name": "Huong Lan Sandwich #4",
+        "category": "fast_food",
+        "address": "Serra Way",
+        "coords": [
+            37.4285101,
+            -121.907302
+        ]
+    },
+    {
+        "name": "Grocery Outlet",
+        "category": "supermarket",
+        "address": "West Calaveras Boulevard",
+        "coords": [
+            37.4286315,
+            -121.911531
+        ]
+    },
+    {
+        "name": "Jang Su Jang Korean BBQ",
+        "category": "restaurant",
+        "address": "West Calaveras Boulevard",
+        "coords": [
+            37.4277667,
+            -121.9115399
+        ]
+    },
+    {
+        "name": "Lee's Sandwiches",
+        "category": "fast_food",
+        "address": "West Calaveras Boulevard",
+        "coords": [
+            37.4273876,
+            -121.911338
+        ]
+    },
+    {
+        "name": "Ph\u1edf Nguy\u1ec5n Noodle",
+        "category": "restaurant",
+        "address": "West Calaveras Boulevard",
+        "coords": [
+            37.4274515,
+            -121.9111751
+        ]
+    },
+    {
+        "name": "Taqueria Las Vegas",
+        "category": "restaurant",
+        "address": "North Milpitas Boulevard",
+        "coords": [
+            37.4510604,
+            -121.910541
+        ]
+    },
+    {
+        "name": "Milan Indian Cuisine",
+        "category": "restaurant",
+        "address": "South Main Street",
+        "coords": [
+            37.4241653,
+            -121.904725
+        ]
+    },
+    {
+        "name": "Dish N Dash",
+        "category": "restaurant",
+        "address": "Ranch Drive",
+        "coords": [
+            37.4287308,
+            -121.919302
+        ]
+    },
+    {
+        "name": "China Rose",
+        "category": "restaurant",
+        "address": "Jacklin Road",
+        "coords": [
+            37.4476409,
+            -121.9030352
+        ]
+    },
+    {
+        "name": "Little Caesars",
+        "category": "fast_food",
+        "address": "Jacklin Road",
+        "coords": [
+            37.447395,
+            -121.904029
+        ]
+    },
+    {
+        "name": "Burrito Express",
+        "category": "restaurant",
+        "address": "Jacklin Road",
+        "coords": [
+            37.4473452,
+            -121.904238
+        ]
+    },
+    {
+        "name": "Sancha Bar",
+        "category": "fast_food",
+        "address": "Jacklin Road",
+        "coords": [
+            37.4473452,
+            -121.9041728
+        ]
+    },
+    {
+        "name": "Gap",
+        "category": "clothes",
+        "address": NaN,
+        "coords": [
+            37.4145233,
+            -121.8980976
+        ]
+    },
+    {
+        "name": "Khun Nine Thai Cuisine",
+        "category": "restaurant",
+        "address": "Milmont Drive",
+        "coords": [
+            37.4551948,
+            -121.9159072
+        ]
+    },
+    {
+        "name": "Lanzhou Hand Pulled Noodles",
+        "category": "restaurant",
+        "address": "Milmont Drive",
+        "coords": [
+            37.4552997,
+            -121.9159513
+        ]
+    },
+    {
+        "name": "Olive Garden",
+        "category": "restaurant",
+        "address": NaN,
+        "coords": [
+            37.4130794,
+            -121.8958798
+        ]
+    },
+    {
+        "name": "Chipotle",
+        "category": "fast_food",
+        "address": "Great Mall Drive",
+        "coords": [
+            37.4136132,
+            -121.8966578
+        ]
+    },
+    {
+        "name": "Saks Fifth Avenue",
+        "category": "department_store",
+        "address": NaN,
+        "coords": [
+            37.4133576,
+            -121.8959663
+        ]
+    },
+    {
+        "name": "Nike Factory Store",
+        "category": "clothes",
+        "address": NaN,
+        "coords": [
+            37.4151808,
+            -121.896784
+        ]
+    },
+    {
+        "name": "Victoria's Secret",
+        "category": "clothes",
+        "address": NaN,
+        "coords": [
+            37.4143862,
+            -121.8953624
+        ]
+    },
+    {
+        "name": "Burlington",
+        "category": "department_store",
+        "address": "Great Mall Drive",
+        "coords": [
+            37.4150679,
+            -121.895303
+        ]
+    },
+    {
+        "name": "Old Navy",
+        "category": "clothes",
+        "address": "Great Mall Drive",
+        "coords": [
+            37.4158451,
+            -121.8984724
+        ]
+    },
+    {
+        "name": "Marshalls",
+        "category": "department_store",
+        "address": NaN,
+        "coords": [
+            37.4135788,
+            -121.8951371
+        ]
+    },
+    {
+        "name": "Annapoorna Indian Restaurant",
+        "category": "restaurant",
+        "address": "North Milpitas Boulevard",
+        "coords": [
+            37.4517799,
+            -121.9097607
+        ]
+    },
+    {
+        "name": "Peet's Coffee",
+        "category": "cafe",
+        "address": "East Calaveras Boulevard",
+        "coords": [
+            37.4345017,
+            -121.8980939
+        ]
+    },
+    {
+        "name": "Marina Grocery",
+        "category": "supermarket",
+        "address": "North Milpitas Boulevard",
+        "coords": [
+            37.4331065,
+            -121.9013217
+        ]
+    },
+    {
+        "name": "Panda Express",
+        "category": "fast_food",
+        "address": "North Milpitas Boulevard",
+        "coords": [
+            37.4342792,
+            -121.9002166
+        ]
+    },
+    {
+        "name": "Noah's Bagels",
+        "category": "fast_food",
+        "address": "North Milpitas Boulevard",
+        "coords": [
+            37.4346327,
+            -121.9003668
+        ]
+    },
+    {
+        "name": "Wingstop",
+        "category": "fast_food",
+        "address": "North Milpitas Boulevard",
+        "coords": [
+            37.4344325,
+            -121.9002917
+        ]
+    },
+    {
+        "name": "Poki Run",
+        "category": "fast_food",
+        "address": "North Milpitas Boulevard",
+        "coords": [
+            37.43492,
+            -121.902411
+        ]
+    },
+    {
+        "name": "Jamba",
+        "category": "fast_food",
+        "address": "East Calaveras Boulevard",
+        "coords": [
+            37.4345941,
+            -121.898007
+        ]
+    },
+    {
+        "name": "Giorgio's Italian Food & Pizzeria",
+        "category": "restaurant",
+        "address": "East Calaveras Boulevard",
+        "coords": [
+            37.4350024,
+            -121.8960255
+        ]
+    },
+    {
+        "name": "Starbucks",
+        "category": "cafe",
+        "address": "East Calaveras Boulevard",
+        "coords": [
+            37.4348049,
+            -121.8978782
+        ]
+    },
+    {
+        "name": "Casa Azteca Restaurant",
+        "category": "restaurant",
+        "address": "North Abel Street",
+        "coords": [
+            37.4319859,
+            -121.9090369
+        ]
+    },
+    {
+        "name": "Sen Dai Sushi",
+        "category": "restaurant",
+        "address": "North Abel Street",
+        "coords": [
+            37.432941,
+            -121.9091296
+        ]
+    },
+    {
+        "name": "Burger King",
+        "category": "fast_food",
+        "address": "West Calaveras Boulevard",
+        "coords": [
+            37.4288559,
+            -121.9103856
+        ]
+    },
+    {
+        "name": "Domino's",
+        "category": "fast_food",
+        "address": "Dixon Road",
+        "coords": [
+            37.4576531,
+            -121.910274
+        ]
+    },
+    {
+        "name": "Ichika",
+        "category": "restaurant",
+        "address": "North Milpitas Boulevard",
+        "coords": [
+            37.4554462,
+            -121.9099731
+        ]
+    },
+    {
+        "name": "Veterans Plaza",
+        "category": "park",
+        "address": "East Calaveras Boulevard",
+        "coords": [
+            37.4330815,
+            -121.8987178
+        ]
+    },
+    {
+        "name": "Luu New Tung Kee Noodle",
+        "category": "restaurant",
+        "address": "East Calaveras Boulevard",
+        "coords": [
+            37.4335096,
+            -121.897602
+        ]
+    },
+    {
+        "name": "Bao House",
+        "category": "restaurant",
+        "address": "South Abel Street",
+        "coords": [
+            37.4296536,
+            -121.907696
+        ]
+    },
+    {
+        "name": "Cheese Steak Shop",
+        "category": "restaurant",
+        "address": "North Milpitas Boulevard",
+        "coords": [
+            37.4350201,
+            -121.8988549
+        ]
+    },
+    {
+        "name": "Erik's DeliCaf\u00e9",
+        "category": "cafe",
+        "address": "North Milpitas Boulevard",
+        "coords": [
+            37.4353081,
+            -121.8989416
+        ]
+    },
+    {
+        "name": "The Pizza Box",
+        "category": "restaurant",
+        "address": "Jacklin Road",
+        "coords": [
+            37.4482166,
+            -121.8881902
+        ]
+    },
+    {
+        "name": "Ocean Supermarket",
+        "category": "supermarket",
+        "address": "South Park Victoria Drive",
+        "coords": [
+            37.4353672,
+            -121.883185
+        ]
+    },
+    {
+        "name": "Hometown Kitchen",
+        "category": "restaurant",
+        "address": "Jacklin Road",
+        "coords": [
+            37.4481409,
+            -121.8882974
+        ]
+    },
+    {
+        "name": "Pizza Hut",
+        "category": "restaurant",
+        "address": "South Park Victoria Drive",
+        "coords": [
+            37.434016,
+            -121.883434
+        ]
+    },
+    {
+        "name": "Chez Christina",
+        "category": "restaurant",
+        "address": "Jacklin Road",
+        "coords": [
+            37.44835,
+            -121.8868006
+        ]
+    },
+    {
+        "name": "Raw Sugar",
+        "category": "cafe",
+        "address": NaN,
+        "coords": [
+            37.4261331,
+            -121.9131398
+        ]
+    },
+    {
+        "name": "New King Eggroll",
+        "category": "restaurant",
+        "address": "West Calaveras Boulevard",
+        "coords": [
+            37.4261629,
+            -121.9130057
+        ]
+    },
+    {
+        "name": "Jiuding Flavor Restaurant",
+        "category": "restaurant",
+        "address": "South Abbott Avenue",
+        "coords": [
+            37.4270268,
+            -121.9141035
+        ]
+    },
+    {
+        "name": "Denny's",
+        "category": "restaurant",
+        "address": "South Abbott Avenue",
+        "coords": [
+            37.4255593,
+            -121.914118
+        ]
+    },
+    {
+        "name": "El Alazan Grill",
+        "category": "restaurant",
+        "address": "South Abbott Avenue",
+        "coords": [
+            37.4271148,
+            -121.9141391
+        ]
+    },
+    {
+        "name": "Milpitas Buffet",
+        "category": "restaurant",
+        "address": NaN,
+        "coords": [
+            37.4279027,
+            -121.9131855
+        ]
+    },
+    {
+        "name": "SGD Tofu House",
+        "category": "restaurant",
+        "address": "West Calaveras Boulevard",
+        "coords": [
+            37.4281705,
+            -121.9114203
+        ]
+    },
+    {
+        "name": "Subway",
+        "category": "fast_food",
+        "address": "Serra Way",
+        "coords": [
+            37.4283067,
+            -121.9078321
+        ]
+    },
+    {
+        "name": "Cheung Hing Restaurant",
+        "category": "restaurant",
+        "address": "East Calaveras Boulevard",
+        "coords": [
+            37.436055,
+            -121.885734
+        ]
+    },
+    {
+        "name": "Round Table Pizza",
+        "category": "restaurant",
+        "address": "East Calaveras Boulevard",
+        "coords": [
+            37.4361225,
+            -121.8852663
+        ]
+    },
+    {
+        "name": "Starbucks",
+        "category": "cafe",
+        "address": "East Calaveras Boulevard",
+        "coords": [
+            37.4355654,
+            -121.8857917
+        ]
+    },
+    {
+        "name": "BBH Noodle",
+        "category": "restaurant",
+        "address": "East Calaveras Boulevard",
+        "coords": [
+            37.435727,
+            -121.885865
+        ]
+    },
+    {
+        "name": "85\u00b0C",
+        "category": "cafe",
+        "address": "Barber Lane",
+        "coords": [
+            37.4195,
+            -121.915471
+        ]
+    },
+    {
+        "name": "McDonald's",
+        "category": "fast_food",
+        "address": "North Milpitas Boulevard",
+        "coords": [
+            37.4573936,
+            -121.910989
+        ]
+    },
+    {
+        "name": "Colosseum New York Pizza",
+        "category": "fast_food",
+        "address": NaN,
+        "coords": [
+            37.407964,
+            -121.8889093
+        ]
+    },
+    {
+        "name": "Asiana Garden",
+        "category": "restaurant",
+        "address": NaN,
+        "coords": [
+            37.4081117,
+            -121.8885254
+        ]
+    },
+    {
+        "name": "Uniqlo",
+        "category": "clothes",
+        "address": "Great Mall Drive",
+        "coords": [
+            37.41582,
+            -121.8973599
+        ]
+    },
+    {
+        "name": "Stratus Restaurant & Bar",
+        "category": "restaurant",
+        "address": "Cadillac Court",
+        "coords": [
+            37.4449511,
+            -121.9184139
+        ]
+    },
+    {
+        "name": "Seafood City",
+        "category": "supermarket",
+        "address": "Landess Avenue",
+        "coords": [
+            37.4168516,
+            -121.87689
+        ]
+    },
+    {
+        "name": "Subway",
+        "category": "fast_food",
+        "address": "Landess Avenue",
+        "coords": [
+            37.4165742,
+            -121.876977
+        ]
+    },
+    {
+        "name": "Max's of Manila",
+        "category": "restaurant",
+        "address": "Landess Avenue",
+        "coords": [
+            37.416449,
+            -121.877418
+        ]
+    },
+    {
+        "name": "Yuan Bistro",
+        "category": "restaurant",
+        "address": "Dixon Road",
+        "coords": [
+            37.4570691,
+            -121.9105158
+        ]
+    },
+    {
+        "name": "Wumjng Yuan Rice Noodles",
+        "category": "restaurant",
+        "address": "Dixon Road",
+        "coords": [
+            37.4571091,
+            -121.9103743
+        ]
+    },
+    {
+        "name": "Naan-n-Masala",
+        "category": "restaurant",
+        "address": "Dempsey Road",
+        "coords": [
+            37.4332386,
+            -121.885376
+        ]
+    },
+    {
+        "name": "Fiesta Market",
+        "category": "supermarket",
+        "address": "Dempsey Road",
+        "coords": [
+            37.4331523,
+            -121.8858335
+        ]
+    },
+    {
+        "name": "Miles Bistro",
+        "category": "restaurant",
+        "address": "Landess Avenue",
+        "coords": [
+            37.4164458,
+            -121.877331
+        ]
+    },
+    {
+        "name": "H&E BBQ",
+        "category": "restaurant",
+        "address": "Landess Avenue",
+        "coords": [
+            37.4161941,
+            -121.875922
+        ]
+    },
+    {
+        "name": "Ima's Kusina",
+        "category": "fast_food",
+        "address": "Landess Avenue",
+        "coords": [
+            37.4166747,
+            -121.876319
+        ]
+    },
+    {
+        "name": "Chef P's at Seafood City",
+        "category": "restaurant",
+        "address": "Landess Avenue",
+        "coords": [
+            37.4166624,
+            -121.876407
+        ]
+    },
+    {
+        "name": "Banana Fashion",
+        "category": "clothes",
+        "address": "Landess Avenue",
+        "coords": [
+            37.4166819,
+            -121.87694
+        ]
+    },
+    {
+        "name": "Korea Garden",
+        "category": "restaurant",
+        "address": "Landess Avenue",
+        "coords": [
+            37.4164924,
+            -121.877202
+        ]
+    },
+    {
+        "name": "Art\u00e9 Boutique",
+        "category": "clothes",
+        "address": "Landess Avenue",
+        "coords": [
+            37.4165288,
+            -121.876886
+        ]
+    },
+    {
+        "name": "Chowking",
+        "category": "fast_food",
+        "address": "Landess Avenue",
+        "coords": [
+            37.4166279,
+            -121.876556
+        ]
+    },
+    {
+        "name": "Donut Basket",
+        "category": "cafe",
+        "address": "Landess Avenue",
+        "coords": [
+            37.4161292,
+            -121.875896
+        ]
+    },
+    {
+        "name": "Tea Zen Tea",
+        "category": "cafe",
+        "address": "Landess Avenue",
+        "coords": [
+            37.4165402,
+            -121.877086
+        ]
+    },
+    {
+        "name": "Aroma Coffee & Snacks",
+        "category": "cafe",
+        "address": "Landess Avenue",
+        "coords": [
+            37.4166518,
+            -121.876482
+        ]
+    },
+    {
+        "name": "Mr. Biryani",
+        "category": "restaurant",
+        "address": "Landess Avenue",
+        "coords": [
+            37.4158177,
+            -121.877627
+        ]
+    },
+    {
+        "name": "Pho Saigon",
+        "category": "restaurant",
+        "address": "Dempsey Road",
+        "coords": [
+            37.4159481,
+            -121.877687
+        ]
+    },
+    {
+        "name": "Omega Family Restaurant",
+        "category": "restaurant",
+        "address": "South Park Victoria Drive",
+        "coords": [
+            37.4343326,
+            -121.8835153
+        ]
+    },
+    {
+        "name": "Omega Coffee Shop",
+        "category": "cafe",
+        "address": "South Park Victoria Drive",
+        "coords": [
+            37.4343677,
+            -121.8833302
+        ]
+    },
+    {
+        "name": "Y-Linh Sandwiches",
+        "category": "fast_food",
+        "address": "South Park Victoria Drive",
+        "coords": [
+            37.4348826,
+            -121.883098
+        ]
+    },
+    {
+        "name": "McDonald's",
+        "category": "fast_food",
+        "address": "Great Mall Drive",
+        "coords": [
+            37.4127259,
+            -121.897772
+        ]
+    },
+    {
+        "name": "Mini Taqueria",
+        "category": "fast_food",
+        "address": "Landess Avenue",
+        "coords": [
+            37.4174613,
+            -121.8721107
+        ]
+    },
+    {
+        "name": "Sweethoney Dessert",
+        "category": "restaurant",
+        "address": "Barber Court",
+        "coords": [
+            37.4236457,
+            -121.9176089
+        ]
+    },
+    {
+        "name": "Mayflower Seafood Restaurant",
+        "category": "restaurant",
+        "address": "Barber Lane",
+        "coords": [
+            37.4216499,
+            -121.916324
+        ]
+    },
+    {
+        "name": "Pepper Lunch",
+        "category": "fast_food",
+        "address": "Barber Lane",
+        "coords": [
+            37.4218714,
+            -121.916404
+        ]
+    },
+    {
+        "name": "Stuft Pizza Milpitas",
+        "category": "restaurant",
+        "address": "Dempsey Road",
+        "coords": [
+            37.4163877,
+            -121.878627
+        ]
+    },
+    {
+        "name": "Hangsang Tofu",
+        "category": "restaurant",
+        "address": "North Milpitas Boulevard",
+        "coords": [
+            37.4340464,
+            -121.901799
+        ]
+    },
+    {
+        "name": "Trader Joe's",
+        "category": "supermarket",
+        "address": "Great Mall Parkway",
+        "coords": [
+            37.4125524,
+            -121.8998299
+        ]
+    },
+    {
+        "name": "Bon Appetit @ Bright Horizons",
+        "category": "cafe",
+        "address": "Barber Lane",
+        "coords": [
+            37.4182082,
+            -121.9150417
+        ]
+    },
+    {
+        "name": "Poke Xpress",
+        "category": "fast_food",
+        "address": "South Abel Street",
+        "coords": [
+            37.4126728,
+            -121.902996
+        ]
+    },
+    {
+        "name": "Serra Theaters",
+        "category": "cinema",
+        "address": "Serra Way",
+        "coords": [
+            37.4261135,
+            -121.9104841
+        ]
+    },
+    {
+        "name": "QQ Noodle",
+        "category": "restaurant",
+        "address": "Barber Lane",
+        "coords": [
+            37.406634,
+            -121.9111343
+        ]
+    },
+    {
+        "name": "Annapoorna Authentic Indian Cuisine",
+        "category": "restaurant",
+        "address": "East Tasman Drive",
+        "coords": [
+            37.411988,
+            -121.9182895
+        ]
+    },
+    {
+        "name": "Mikonos Grill",
+        "category": "restaurant",
+        "address": "East Calaveras Boulevard",
+        "coords": [
+            37.4332683,
+            -121.892907
+        ]
+    },
+    {
+        "name": "Hyderabad Dum Biryani",
+        "category": "restaurant",
+        "address": "Dempsey Road",
+        "coords": [
+            37.435223,
+            -121.884791
+        ]
+    },
+    {
+        "name": "U.S. Uniforms",
+        "category": "clothes",
+        "address": "South Hillview Drive",
+        "coords": [
+            37.4306858,
+            -121.892088
+        ]
+    },
+    {
+        "name": "Quickly",
+        "category": "cafe",
+        "address": "South Park Victoria Drive",
+        "coords": [
+            37.4176389,
+            -121.8743884
+        ]
+    },
+    {
+        "name": "R&B Tea",
+        "category": "cafe",
+        "address": "South Abel Street",
+        "coords": [
+            37.4295411,
+            -121.9076761
+        ]
+    },
+    {
+        "name": "Curry Pizza House",
+        "category": "restaurant",
+        "address": "Milmont Drive",
+        "coords": [
+            37.4551277,
+            -121.9158729
+        ]
+    },
+    {
+        "name": "De Los Altos Grill",
+        "category": "restaurant",
+        "address": "Milmont Drive",
+        "coords": [
+            37.455387,
+            -121.9159998
+        ]
+    },
+    {
+        "name": "Xing Fu Tang",
+        "category": "cafe",
+        "address": "North Milpitas Boulevard",
+        "coords": [
+            37.4551191,
+            -121.911638
+        ]
+    },
+    {
+        "name": "Tequila Shots Bar & Grill",
+        "category": "bar",
+        "address": "North Main Street",
+        "coords": [
+            37.4312286,
+            -121.9068417
+        ]
+    },
+    {
+        "name": "Taste Good Beijing Duck",
+        "category": "restaurant",
+        "address": "South Abel Street",
+        "coords": [
+            37.4292881,
+            -121.9076293
+        ]
+    },
+    {
+        "name": "Kathmandu Cuisine",
+        "category": "restaurant",
+        "address": "South Main Street",
+        "coords": [
+            37.4286896,
+            -121.9057615
+        ]
+    },
+    {
+        "name": "Coconut Hill Indian Grocery",
+        "category": "supermarket",
+        "address": "East Calaveras Boulevard",
+        "coords": [
+            37.4360557,
+            -121.885488
+        ]
+    },
+    {
+        "name": "Amber India Restaurant",
+        "category": "restaurant",
+        "address": "South Milpitas Boulevard",
+        "coords": [
+            37.4262236,
+            -121.894784
+        ]
+    },
+    {
+        "name": "Asian Bowl",
+        "category": "restaurant",
+        "address": "East Tasman Drive",
+        "coords": [
+            37.4120324,
+            -121.9181772
+        ]
+    },
+    {
+        "name": "Aha Indian Cuisine",
+        "category": "restaurant",
+        "address": "South Main Street",
+        "coords": [
+            37.4281779,
+            -121.906481
+        ]
+    },
+    {
+        "name": "Organic Pisa",
+        "category": "fast_food",
+        "address": "Dempsey Road",
+        "coords": [
+            37.4331844,
+            -121.885725
+        ]
+    },
+    {
+        "name": "International Kitchen",
+        "category": "restaurant",
+        "address": "South Main Street",
+        "coords": [
+            37.4257093,
+            -121.905111
+        ]
+    },
+    {
+        "name": "H.L. Peninsula",
+        "category": "restaurant",
+        "address": "Ranch Drive",
+        "coords": [
+            37.4265804,
+            -121.9196457
+        ]
+    },
+    {
+        "name": "Namaste Plaza",
+        "category": "supermarket",
+        "address": NaN,
+        "coords": [
+            37.428478,
+            -121.9134325
+        ]
+    },
+    {
+        "name": "Pinoy BBQ ATBP",
+        "category": "restaurant",
+        "address": NaN,
+        "coords": [
+            37.4283921,
+            -121.9134157
+        ]
+    },
+    {
+        "name": "Tayyibaat",
+        "category": "restaurant",
+        "address": NaN,
+        "coords": [
+            37.4283349,
+            -121.9133889
+        ]
+    },
+    {
+        "name": "Mil's Diner",
+        "category": "restaurant",
+        "address": NaN,
+        "coords": [
+            37.4275203,
+            -121.9129943
+        ]
+    },
+    {
+        "name": "Sunright Tea Studio - Milpitas",
+        "category": "cafe",
+        "address": "North Milpitas Boulevard",
+        "coords": [
+            37.4549689,
+            -121.9116301
+        ]
+    },
+    {
+        "name": "Yoshi Sushi",
+        "category": "restaurant",
+        "address": "East Calaveras Blvd",
+        "coords": [
+            37.4354692,
+            -121.897056
+        ]
+    },
+    {
+        "name": "India Metro Hypermarket",
+        "category": "supermarket",
+        "address": "East Calaveras Boulevard",
+        "coords": [
+            37.4347408,
+            -121.895289
+        ]
+    },
+    {
+        "name": "Crust Deli",
+        "category": "fast_food",
+        "address": "East Tasman Drive",
+        "coords": [
+            37.4119258,
+            -121.9184361
+        ]
+    },
+    {
+        "name": "i-Tea Milpitas",
+        "category": "cafe",
+        "address": "East Calaveras Boulevard",
+        "coords": [
+            37.4332293,
+            -121.892869
+        ]
+    },
+    {
+        "name": "Christy's Donuts",
+        "category": "fast_food",
+        "address": "East Calaveras Boulevard",
+        "coords": [
+            37.4361685,
+            -121.884971
+        ]
+    },
+    {
+        "name": "Subway",
+        "category": "fast_food",
+        "address": "East Calaveras Boulevard",
+        "coords": [
+            37.4360557,
+            -121.885591
+        ]
+    },
+    {
+        "name": "Lucky Dumpling",
+        "category": "restaurant",
+        "address": "East Calaveras Boulevard",
+        "coords": [
+            37.4360783,
+            -121.8855574
+        ]
+    },
+    {
+        "name": "Bay View Gyre Restaurant",
+        "category": "restaurant",
+        "address": NaN,
+        "coords": [
+            37.4554842,
+            -121.8815038
+        ]
+    },
+    {
+        "name": "Subway",
+        "category": "fast_food",
+        "address": "North Milpitas Boulevard",
+        "coords": [
+            37.4348421,
+            -121.90234
+        ]
+    },
+    {
+        "name": "Feng Cha Milpitas",
+        "category": "cafe",
+        "address": "East Calaveras Boulevard",
+        "coords": [
+            37.4336248,
+            -121.8976662
+        ]
+    },
+    {
+        "name": "Mi Rancherita Taqueria",
+        "category": "restaurant",
+        "address": "South Park Victoria Drive",
+        "coords": [
+            37.4343738,
+            -121.8843015
+        ]
+    },
+    {
+        "name": "King Chicken Wing",
+        "category": "restaurant",
+        "address": NaN,
+        "coords": [
+            37.4340336,
+            -121.8841183
+        ]
+    },
+    {
+        "name": "Bambu",
+        "category": "cafe",
+        "address": "South Park Victoria Drive",
+        "coords": [
+            37.4338526,
+            -121.8840655
+        ]
+    },
+    {
+        "name": "New India Bazar",
+        "category": "supermarket",
+        "address": "South Main Street",
+        "coords": [
+            37.4237117,
+            -121.9046758
+        ]
+    },
+    {
+        "name": "THE BEST SANDWICHES",
+        "category": "fast_food",
+        "address": "South Main Street",
+        "coords": [
+            37.4279427,
+            -121.9064051
+        ]
+    },
+    {
+        "name": "Tacos y Tlayudas el Ejuteco (Food Truck)",
+        "category": "fast_food",
+        "address": "Dempsey Road",
+        "coords": [
+            37.4353306,
+            -121.884695
+        ]
+    },
+    {
+        "name": "Kokolo Donburi Japanese Rice Bowl",
+        "category": "restaurant",
+        "address": "Ranch Drive",
+        "coords": [
+            37.4290982,
+            -121.9201511
+        ]
+    },
+    {
+        "name": "Nilgris Cash and Carry",
+        "category": "supermarket",
+        "address": "South Abel Street",
+        "coords": [
+            37.429059,
+            -121.9081231
+        ]
+    },
+    {
+        "name": "IBU Taproom and Bottle Shop",
+        "category": "bar",
+        "address": "Dempsey Road",
+        "coords": [
+            37.4163676,
+            -121.8787145
+        ]
+    },
+    {
+        "name": "De Lat Restaurant Noodle",
+        "category": "restaurant",
+        "address": "South Park Victoria Drive",
+        "coords": [
+            37.4343129,
+            -121.8828201
+        ]
+    },
+    {
+        "name": "Tasty Pot Innovation",
+        "category": "restaurant",
+        "address": "Barber Court",
+        "coords": [
+            37.4235295,
+            -121.918266
+        ]
+    },
+    {
+        "name": "The Bento Box",
+        "category": "restaurant",
+        "address": "Barber Court",
+        "coords": [
+            37.4236015,
+            -121.918068
+        ]
+    },
+    {
+        "name": "Yi Fang Tea",
+        "category": "cafe",
+        "address": "Barber Court",
+        "coords": [
+            37.4234462,
+            -121.918474
+        ]
+    },
+    {
+        "name": "Cafe Won Kee",
+        "category": "restaurant",
+        "address": "Barber Court",
+        "coords": [
+            37.423398,
+            -121.918632
+        ]
+    },
+    {
+        "name": "Shanghai Delight Chinese Restaurant",
+        "category": "restaurant",
+        "address": "Barber Court",
+        "coords": [
+            37.4234744,
+            -121.9184094
+        ]
+    },
+    {
+        "name": "Shancheng Lameizi Hot Pot",
+        "category": "restaurant",
+        "address": "Barber Court",
+        "coords": [
+            37.4236978,
+            -121.9177002
+        ]
+    },
+    {
+        "name": "Xian Kitchen",
+        "category": "restaurant",
+        "address": "Barber Court",
+        "coords": [
+            37.4234814,
+            -121.9174052
+        ]
+    },
+    {
+        "name": "Apt.Li Xiang Restaurant",
+        "category": "restaurant",
+        "address": "Barber Court",
+        "coords": [
+            37.4236137,
+            -121.9175272
+        ]
+    },
+    {
+        "name": "Ocean Pearl Restaurant",
+        "category": "restaurant",
+        "address": "Barber Court",
+        "coords": [
+            37.4234195,
+            -121.91855
+        ]
+    },
+    {
+        "name": "Sevens Bar And Grill",
+        "category": "bar",
+        "address": "Bellew Drive",
+        "coords": [
+            37.4225403,
+            -121.918973
+        ]
+    },
+    {
+        "name": "Saravana Bhavan",
+        "category": "fast_food",
+        "address": "Barber Lane",
+        "coords": [
+            37.4220761,
+            -121.917534
+        ]
+    },
+    {
+        "name": "Gong Cha",
+        "category": "cafe",
+        "address": "Barber Court",
+        "coords": [
+            37.4224222,
+            -121.916702
+        ]
+    },
+    {
+        "name": "The Special Noodle House",
+        "category": "restaurant",
+        "address": "Barber Lane",
+        "coords": [
+            37.4219749,
+            -121.9164599
+        ]
+    },
+    {
+        "name": "QQ Noodle",
+        "category": "restaurant",
+        "address": "Barber Lane",
+        "coords": [
+            37.4217985,
+            -121.9163628
+        ]
+    },
+    {
+        "name": "Nutrition House",
+        "category": "restaurant",
+        "address": "Barber Lane",
+        "coords": [
+            37.4210335,
+            -121.9160653
+        ]
+    },
+    {
+        "name": "Kusan Bazaar",
+        "category": "restaurant",
+        "address": "Barber Lane",
+        "coords": [
+            37.4208987,
+            -121.9162005
+        ]
+    },
+    {
+        "name": "Shihlin Taiwanese Street Snacks",
+        "category": "fast_food",
+        "address": "Barber Lane",
+        "coords": [
+            37.4208383,
+            -121.9164086
+        ]
+    },
+    {
+        "name": "Fantasia",
+        "category": "cafe",
+        "address": "Barber Lane",
+        "coords": [
+            37.4207994,
+            -121.9165297
+        ]
+    },
+    {
+        "name": "YGF Malatang",
+        "category": "restaurant",
+        "address": "Barber Lane",
+        "coords": [
+            37.4207016,
+            -121.9168003
+        ]
+    },
+    {
+        "name": "Classic Guilin Rice Noodles",
+        "category": "restaurant",
+        "address": "Barber Lane",
+        "coords": [
+            37.4206621,
+            -121.9168702
+        ]
+    },
+    {
+        "name": "Donut Basket",
+        "category": "fast_food",
+        "address": "North Abel Street",
+        "coords": [
+            37.4331432,
+            -121.9091582
+        ]
+    },
+    {
+        "name": "Anjappar Chettinadu Indian Restaurant",
+        "category": "restaurant",
+        "address": "Barber Lane",
+        "coords": [
+            37.4212735,
+            -121.917189
+        ]
+    },
+    {
+        "name": "Milan Sweet Center",
+        "category": "fast_food",
+        "address": "South Abel Street",
+        "coords": [
+            37.4274792,
+            -121.907428
+        ]
+    },
+    {
+        "name": "Swaraj India Food Truck",
+        "category": "fast_food",
+        "address": "South Abel Street",
+        "coords": [
+            37.4277059,
+            -121.9080802
+        ]
+    },
+    {
+        "name": "Sonam House Of Indian Fashion",
+        "category": "clothes",
+        "address": "South Abel Street",
+        "coords": [
+            37.4269844,
+            -121.9079129
+        ]
+    },
+    {
+        "name": "Sinoy's Kitchen",
+        "category": "fast_food",
+        "address": "Jacklin Road",
+        "coords": [
+            37.4473476,
+            -121.904116
+        ]
+    },
+    {
+        "name": "Paradise Biryani Pointe",
+        "category": "restaurant",
+        "address": "North Abel Street",
+        "coords": [
+            37.4356996,
+            -121.9099107
+        ]
+    },
+    {
+        "name": "Swagat Indian Cuisine",
+        "category": "restaurant",
+        "address": "South Abel Street",
+        "coords": [
+            37.4294484,
+            -121.9076916
+        ]
+    },
+    {
+        "name": "Dakao Sandwiches II",
+        "category": "fast_food",
+        "address": "South Abel Street",
+        "coords": [
+            37.4293617,
+            -121.9076576
+        ]
+    },
+    {
+        "name": "Hub 61 Indian Bistro",
+        "category": "restaurant",
+        "address": "Serra Way",
+        "coords": [
+            37.4281682,
+            -121.9081423
+        ]
+    },
+    {
+        "name": "The G",
+        "category": "bar",
+        "address": "South Main Street",
+        "coords": [
+            37.4287654,
+            -121.9058656
+        ]
+    },
+    {
+        "name": "Indian Market",
+        "category": "supermarket",
+        "address": "South Main Street",
+        "coords": [
+            37.4254179,
+            -121.9052652
+        ]
+    },
+    {
+        "name": "L&L Hawaiian Barbecue",
+        "category": "fast_food",
+        "address": "West Calaveras Boulevard",
+        "coords": [
+            37.4275318,
+            -121.9110015
+        ]
+    },
+    {
+        "name": "Happy Lemon",
+        "category": "cafe",
+        "address": "West Calaveras Boulevard",
+        "coords": [
+            37.4273417,
+            -121.9114135
+        ]
+    },
+    {
+        "name": "Teaspoon",
+        "category": "cafe",
+        "address": "West Calaveras Boulevard",
+        "coords": [
+            37.4288065,
+            -121.9111731
+        ]
+    },
+    {
+        "name": "Kokoro Ramen",
+        "category": "restaurant",
+        "address": "West Calaveras Boulevard",
+        "coords": [
+            37.4278414,
+            -121.9112974
+        ]
+    },
+    {
+        "name": "BB\u2219Q Chicken",
+        "category": "restaurant",
+        "address": "West Calaveras Boulevard",
+        "coords": [
+            37.4289296,
+            -121.9110288
+        ]
+    },
+    {
+        "name": "Chef Chengdu Restaurant",
+        "category": "restaurant",
+        "address": "West Calaveras Boulevard",
+        "coords": [
+            37.4289557,
+            -121.9109488
+        ]
+    },
+    {
+        "name": "Tong Sui",
+        "category": "cafe",
+        "address": "West Calaveras Boulevard",
+        "coords": [
+            37.4277702,
+            -121.911292
+        ]
+    },
+    {
+        "name": "Ann Hong Vietnamese Restaurant",
+        "category": "restaurant",
+        "address": "West Calaveras Boulevard",
+        "coords": [
+            37.4281245,
+            -121.9113953
+        ]
+    },
+    {
+        "name": "Daeho Kalbi Jjim & Beef Soup",
+        "category": "restaurant",
+        "address": "West Calaveras Boulevard",
+        "coords": [
+            37.4283026,
+            -121.911451
+        ]
+    },
+    {
+        "name": "Mandro Teahouse",
+        "category": "cafe",
+        "address": "Serra Way",
+        "coords": [
+            37.426517,
+            -121.9100151
+        ]
+    },
+    {
+        "name": "3Catea",
+        "category": "cafe",
+        "address": "North Milpitas Boulevard",
+        "coords": [
+            37.4559267,
+            -121.911811
+        ]
+    },
+    {
+        "name": "Kalesa",
+        "category": "restaurant",
+        "address": "North Milpitas Boulevard",
+        "coords": [
+            37.4560627,
+            -121.9118282
+        ]
+    },
+    {
+        "name": "K On The Go",
+        "category": "cafe",
+        "address": "West Calaveras Boulevard",
+        "coords": [
+            37.4278674,
+            -121.9113006
+        ]
+    },
+    {
+        "name": "Shanghai Family Cuisine",
+        "category": "restaurant",
+        "address": "North Milpitas Boulevard",
+        "coords": [
+            37.4518995,
+            -121.9097705
+        ]
+    },
+    {
+        "name": "Subway",
+        "category": "fast_food",
+        "address": "North Milpitas Boulevard",
+        "coords": [
+            37.4520505,
+            -121.9097982
+        ]
+    },
+    {
+        "name": "Gao's Kabob & Crab",
+        "category": "restaurant",
+        "address": "North Milpitas Boulevard",
+        "coords": [
+            37.4555174,
+            -121.9117316
+        ]
+    },
+    {
+        "name": "TK Noodles",
+        "category": "restaurant",
+        "address": "North Milpitas Boulevard",
+        "coords": [
+            37.4548706,
+            -121.911574
+        ]
+    },
+    {
+        "name": "Chick & Tea",
+        "category": "restaurant",
+        "address": "North Milpitas Boulevard",
+        "coords": [
+            37.4552339,
+            -121.9116616
+        ]
+    },
+    {
+        "name": "New Hwong Kok",
+        "category": "restaurant",
+        "address": "North Milpitas Boulevard",
+        "coords": [
+            37.4550509,
+            -121.9116182
+        ]
+    },
+    {
+        "name": "Xing Fu Tang",
+        "category": "cafe",
+        "address": "North Milpitas Boulevard",
+        "coords": [
+            37.455348,
+            -121.9117158
+        ]
+    },
+    {
+        "name": "My No.1 Sushi & Tofu",
+        "category": "restaurant",
+        "address": "North Milpitas Boulevard",
+        "coords": [
+            37.4556087,
+            -121.911736
+        ]
+    },
+    {
+        "name": "Obaitori",
+        "category": "restaurant",
+        "address": "North Milpitas Boulevard",
+        "coords": [
+            37.4551959,
+            -121.9101491
+        ]
+    },
+    {
+        "name": "Yin Ji Chang Fen",
+        "category": "restaurant",
+        "address": "North Milpitas Boulevard",
+        "coords": [
+            37.4563399,
+            -121.9103481
+        ]
+    },
+    {
+        "name": "New China",
+        "category": "restaurant",
+        "address": "North Milpitas Boulevard",
+        "coords": [
+            37.4567551,
+            -121.9104397
+        ]
+    },
+    {
+        "name": "Mian Bai House",
+        "category": "restaurant",
+        "address": "North Milpitas Boulevard",
+        "coords": [
+            37.4553316,
+            -121.9100342
+        ]
+    },
+    {
+        "name": "Highland Noodles",
+        "category": "restaurant",
+        "address": "North Milpitas Boulevard",
+        "coords": [
+            37.455361,
+            -121.910004
+        ]
+    },
+    {
+        "name": "Tapioca Express",
+        "category": "cafe",
+        "address": "North Milpitas Boulevard",
+        "coords": [
+            37.4552376,
+            -121.9101043
+        ]
+    },
+    {
+        "name": "Vung Tau Restaurant",
+        "category": "restaurant",
+        "address": "North Milpitas Boulevard",
+        "coords": [
+            37.4559921,
+            -121.9100388
+        ]
+    },
+    {
+        "name": "Bejing Chef",
+        "category": "restaurant",
+        "address": "North Milpitas Boulevard",
+        "coords": [
+            37.4562376,
+            -121.9103313
+        ]
+    },
+    {
+        "name": "Kim Lee Fast Food",
+        "category": "fast_food",
+        "address": "South Park Victoria Drive",
+        "coords": [
+            37.4350829,
+            -121.8832194
+        ]
+    },
+    {
+        "name": "Pho Hanoi",
+        "category": "restaurant",
+        "address": NaN,
+        "coords": [
+            37.4128311,
+            -121.9029634
+        ]
+    },
+    {
+        "name": "Juban Ramen",
+        "category": "restaurant",
+        "address": NaN,
+        "coords": [
+            37.412534,
+            -121.9030264
+        ]
+    },
+    {
+        "name": "Starbucks",
+        "category": "cafe",
+        "address": "Great Mall Parkway",
+        "coords": [
+            37.4125416,
+            -121.9002357
+        ]
+    },
+    {
+        "name": "H&M",
+        "category": "clothes",
+        "address": NaN,
+        "coords": [
+            37.4143793,
+            -121.8979222
+        ]
+    },
+    {
+        "name": "Q",
+        "category": "clothes",
+        "address": NaN,
+        "coords": [
+            37.414151,
+            -121.8977928
+        ]
+    },
+    {
+        "name": "Polo Ralph Lauren",
+        "category": "clothes",
+        "address": NaN,
+        "coords": [
+            37.413684,
+            -121.8964024
+        ]
+    },
+    {
+        "name": "Michael Kors",
+        "category": "clothes",
+        "address": NaN,
+        "coords": [
+            37.4139985,
+            -121.8967322
+        ]
+    },
+    {
+        "name": "J.Crew",
+        "category": "clothes",
+        "address": NaN,
+        "coords": [
+            37.4138985,
+            -121.8965327
+        ]
+    },
+    {
+        "name": "Karl Lagerfeld",
+        "category": "clothes",
+        "address": NaN,
+        "coords": [
+            37.4138628,
+            -121.896374
+        ]
+    },
+    {
+        "name": "Auntie Anne's",
+        "category": "fast_food",
+        "address": NaN,
+        "coords": [
+            37.4138726,
+            -121.8958455
+        ]
+    },
+    {
+        "name": "Garage",
+        "category": "clothes",
+        "address": NaN,
+        "coords": [
+            37.4142032,
+            -121.8960384
+        ]
+    },
+    {
+        "name": "Express",
+        "category": "clothes",
+        "address": NaN,
+        "coords": [
+            37.4145183,
+            -121.896214
+        ]
+    },
+    {
+        "name": "Banana Republic",
+        "category": "clothes",
+        "address": "Great Mall Drive",
+        "coords": [
+            37.414628,
+            -121.8963125
+        ]
+    },
+    {
+        "name": "Carter's",
+        "category": "clothes",
+        "address": NaN,
+        "coords": [
+            37.4148455,
+            -121.8965244
+        ]
+    },
+    {
+        "name": "Perry Ellis",
+        "category": "clothes",
+        "address": NaN,
+        "coords": [
+            37.4152789,
+            -121.896469
+        ]
+    },
+    {
+        "name": "True Religion",
+        "category": "clothes",
+        "address": NaN,
+        "coords": [
+            37.4151221,
+            -121.8963777
+        ]
+    },
+    {
+        "name": "Volcom",
+        "category": "clothes",
+        "address": NaN,
+        "coords": [
+            37.4150339,
+            -121.8962504
+        ]
+    },
+    {
+        "name": "Torrid",
+        "category": "clothes",
+        "address": NaN,
+        "coords": [
+            37.414957,
+            -121.8961866
+        ]
+    },
+    {
+        "name": "Forever 21",
+        "category": "clothes",
+        "address": NaN,
+        "coords": [
+            37.4171801,
+            -121.8977028
+        ]
+    },
+    {
+        "name": "Lids",
+        "category": "clothes",
+        "address": NaN,
+        "coords": [
+            37.4174045,
+            -121.8978096
+        ]
+    },
+    {
+        "name": "Hot Topic",
+        "category": "clothes",
+        "address": NaN,
+        "coords": [
+            37.4173769,
+            -121.8982669
+        ]
+    },
+    {
+        "name": "Eddie Bauer",
+        "category": "clothes",
+        "address": NaN,
+        "coords": [
+            37.4169658,
+            -121.8973092
+        ]
+    },
+    {
+        "name": "American Eagle Outfitters",
+        "category": "clothes",
+        "address": NaN,
+        "coords": [
+            37.4168024,
+            -121.8975833
+        ]
+    },
+    {
+        "name": "The North Face",
+        "category": "clothes",
+        "address": NaN,
+        "coords": [
+            37.4165668,
+            -121.8975032
+        ]
+    },
+    {
+        "name": "Under Armour",
+        "category": "clothes",
+        "address": NaN,
+        "coords": [
+            37.4163239,
+            -121.8973888
+        ]
+    },
+    {
+        "name": "Wetzel's Pretzels",
+        "category": "fast_food",
+        "address": NaN,
+        "coords": [
+            37.4162814,
+            -121.8987689
+        ]
+    },
+    {
+        "name": "The Children's Place",
+        "category": "clothes",
+        "address": NaN,
+        "coords": [
+            37.4163993,
+            -121.8984559
+        ]
+    },
+    {
+        "name": "Windsor",
+        "category": "clothes",
+        "address": NaN,
+        "coords": [
+            37.4163011,
+            -121.8983946
+        ]
+    },
+    {
+        "name": "Potato Corner",
+        "category": "fast_food",
+        "address": NaN,
+        "coords": [
+            37.415938,
+            -121.8985307
+        ]
+    },
+    {
+        "name": "Zumiez",
+        "category": "clothes",
+        "address": NaN,
+        "coords": [
+            37.4160593,
+            -121.8982242
+        ]
+    },
+    {
+        "name": "Hollister",
+        "category": "clothes",
+        "address": NaN,
+        "coords": [
+            37.415965,
+            -121.8981587
+        ]
+    },
+    {
+        "name": "Tommy Hilfiger",
+        "category": "clothes",
+        "address": NaN,
+        "coords": [
+            37.4157742,
+            -121.8980418
+        ]
+    },
+    {
+        "name": "O'Neill",
+        "category": "clothes",
+        "address": NaN,
+        "coords": [
+            37.4153025,
+            -121.8982416
+        ]
+    },
+    {
+        "name": "Guess",
+        "category": "clothes",
+        "address": NaN,
+        "coords": [
+            37.4154963,
+            -121.8979018
+        ]
+    },
+    {
+        "name": "LC Waikiki",
+        "category": "clothes",
+        "address": NaN,
+        "coords": [
+            37.4154041,
+            -121.897856
+        ]
+    },
+    {
+        "name": "Levi's Outlet",
+        "category": "clothes",
+        "address": "Great Mall Drive",
+        "coords": [
+            37.4152778,
+            -121.8977895
+        ]
+    },
+    {
+        "name": "Puma",
+        "category": "clothes",
+        "address": NaN,
+        "coords": [
+            37.4156671,
+            -121.8966948
+        ]
+    },
+    {
+        "name": "Cinnabon",
+        "category": "fast_food",
+        "address": NaN,
+        "coords": [
+            37.4160444,
+            -121.8968212
+        ]
+    },
+    {
+        "name": "Sarku Japan",
+        "category": "fast_food",
+        "address": NaN,
+        "coords": [
+            37.4160098,
+            -121.8967536
+        ]
+    },
+    {
+        "name": "Ruby Thai Kitchen",
+        "category": "restaurant",
+        "address": NaN,
+        "coords": [
+            37.4160062,
+            -121.8966806
+        ]
+    },
+    {
+        "name": "Popeyes",
+        "category": "fast_food",
+        "address": "Great Mall Drive",
+        "coords": [
+            37.4159771,
+            -121.896571
+        ]
+    },
+    {
+        "name": "Burger King",
+        "category": "fast_food",
+        "address": "Great Mall Drive",
+        "coords": [
+            37.4162512,
+            -121.8964817
+        ]
+    },
+    {
+        "name": "Jamba",
+        "category": "fast_food",
+        "address": "Great Mall Drive",
+        "coords": [
+            37.4161999,
+            -121.896741
+        ]
+    },
+    {
+        "name": "Charleys Philly Steaks",
+        "category": "fast_food",
+        "address": NaN,
+        "coords": [
+            37.416228,
+            -121.8963555
+        ]
+    },
+    {
+        "name": "Subway",
+        "category": "fast_food",
+        "address": "Great Mall Drive",
+        "coords": [
+            37.4160777,
+            -121.8962662
+        ]
+    },
+    {
+        "name": "Kelly's Cajun Grill",
+        "category": "fast_food",
+        "address": NaN,
+        "coords": [
+            37.4159588,
+            -121.8962741
+        ]
+    },
+    {
+        "name": "Lacoste",
+        "category": "clothes",
+        "address": NaN,
+        "coords": [
+            37.4151195,
+            -121.897695
+        ]
+    },
+    {
+        "name": "U.S. Polo Assn.",
+        "category": "clothes",
+        "address": NaN,
+        "coords": [
+            37.4149682,
+            -121.8975653
+        ]
+    },
+    {
+        "name": "Timberland",
+        "category": "clothes",
+        "address": NaN,
+        "coords": [
+            37.4143739,
+            -121.8971833
+        ]
+    },
+    {
+        "name": "Nautica",
+        "category": "clothes",
+        "address": NaN,
+        "coords": [
+            37.4142792,
+            -121.897119
+        ]
+    },
+    {
+        "name": "Calvin Klein",
+        "category": "clothes",
+        "address": NaN,
+        "coords": [
+            37.414182,
+            -121.8970294
+        ]
+    },
+    {
+        "name": "Wetzel's Pretzels",
+        "category": "fast_food",
+        "address": NaN,
+        "coords": [
+            37.4152432,
+            -121.8966162
+        ]
+    },
+    {
+        "name": "Namma Restaurant",
+        "category": "restaurant",
+        "address": "Ranch Drive",
+        "coords": [
+            37.4289472,
+            -121.9199454
+        ]
+    },
+    {
+        "name": "White Rabbit Cafe & Art Gallery",
+        "category": "cafe",
+        "address": "Jacklin Road",
+        "coords": [
+            37.4481898,
+            -121.8865807
+        ]
+    },
+    {
+        "name": "Crawdaddy",
+        "category": "restaurant",
+        "address": "South Abel Street",
+        "coords": [
+            37.4129156,
+            -121.9032221
+        ]
+    },
+    {
+        "name": "Ed R. Levin County Park",
+        "category": "nature_reserve",
+        "address": NaN,
+        "coords": [
+            37.46176953771291,
+            -121.86289480882753
+        ]
+    },
+    {
+        "name": "Cardoza Park",
+        "category": "park",
+        "address": NaN,
+        "coords": [
+            37.44029375785636,
+            -121.8838107500188
+        ]
+    },
+    {
+        "name": "Robert E. Browne Park",
+        "category": "park",
+        "address": NaN,
+        "coords": [
+            37.423761339824594,
+            -121.87528367396096
+        ]
+    },
+    {
+        "name": "Peter T Gill Park",
+        "category": "park",
+        "address": NaN,
+        "coords": [
+            37.44084698658509,
+            -121.89494008522837
+        ]
+    },
+    {
+        "name": "Sinnot Park",
+        "category": "park",
+        "address": NaN,
+        "coords": [
+            37.420136360940425,
+            -121.87274505566917
+        ]
+    },
+    {
+        "name": "McDonald's",
+        "category": "fast_food",
+        "address": "Landess Avenue",
+        "coords": [
+            37.417814899999996,
+            -121.87159895
+        ]
+    },
+    {
+        "name": "Taco Bell",
+        "category": "fast_food",
+        "address": "South Park Victoria Drive",
+        "coords": [
+            37.4172548,
+            -121.87572535000001
+        ]
+    },
+    {
+        "name": "Starbucks",
+        "category": "cafe",
+        "address": "South Park Victoria Drive",
+        "coords": [
+            37.4175755,
+            -121.87583860000001
+        ]
+    },
+    {
+        "name": "Burger King",
+        "category": "fast_food",
+        "address": "Dempsey Road",
+        "coords": [
+            37.41550977400376,
+            -121.8786103398331
+        ]
+    },
+    {
+        "name": "Black Bear Diner",
+        "category": "restaurant",
+        "address": "West Calaveras Boulevard",
+        "coords": [
+            37.42854269355181,
+            -121.90966667821968
+        ]
+    },
+    {
+        "name": "Straw Hat Pizza",
+        "category": "restaurant",
+        "address": "West Calaveras Boulevard",
+        "coords": [
+            37.42662877998284,
+            -121.91084291590863
+        ]
+    },
+    {
+        "name": "Taco Bell",
+        "category": "fast_food",
+        "address": "Ranch Drive",
+        "coords": [
+            37.427689,
+            -121.92127899999998
+        ]
+    },
+    {
+        "name": "McDonald's",
+        "category": "fast_food",
+        "address": "Ranch Drive",
+        "coords": [
+            37.42713993702501,
+            -121.92175883925606
+        ]
+    },
+    {
+        "name": "Applebee's",
+        "category": "restaurant",
+        "address": NaN,
+        "coords": [
+            37.42667122377103,
+            -121.92108899346437
+        ]
+    },
+    {
+        "name": "Sushi King",
+        "category": "restaurant",
+        "address": NaN,
+        "coords": [
+            37.4263831524688,
+            -121.92149758170427
+        ]
+    },
+    {
+        "name": "Higuera Adobe Park",
+        "category": "park",
+        "address": NaN,
+        "coords": [
+            37.4585049717023,
+            -121.89676016123573
+        ]
+    },
+    {
+        "name": "Albert Augustine Jr. Memorial Park",
+        "category": "park",
+        "address": NaN,
+        "coords": [
+            37.45698524135813,
+            -121.90317949391215
+        ]
+    },
+    {
+        "name": "Sandlewood Park",
+        "category": "park",
+        "address": NaN,
+        "coords": [
+            37.44948102088845,
+            -121.89825311590602
+        ]
+    },
+    {
+        "name": "Hall Memorial Park",
+        "category": "park",
+        "address": NaN,
+        "coords": [
+            37.44219017542263,
+            -121.91281179358906
+        ]
+    },
+    {
+        "name": "Starlite Park",
+        "category": "park",
+        "address": NaN,
+        "coords": [
+            37.43067671978769,
+            -121.91531358671884
+        ]
+    },
+    {
+        "name": "Walmart Supercenter",
+        "category": "supermarket",
+        "address": "Ranch Drive",
+        "coords": [
+            37.431471154301676,
+            -121.92115993934412
+        ]
+    },
+    {
+        "name": "In-N-Out Burger",
+        "category": "fast_food",
+        "address": "Ranch Drive",
+        "coords": [
+            37.42629307303948,
+            -121.92243127742377
+        ]
+    },
+    {
+        "name": "Outback Steakhouse",
+        "category": "restaurant",
+        "address": NaN,
+        "coords": [
+            37.417515099999996,
+            -121.89928689999999
+        ]
+    },
+    {
+        "name": "Tom Evatt Park",
+        "category": "park",
+        "address": NaN,
+        "coords": [
+            37.422453854730826,
+            -121.90569286965524
+        ]
+    },
+    {
+        "name": "El Torito",
+        "category": "restaurant",
+        "address": "East Calaveras Boulevard",
+        "coords": [
+            37.43311073071389,
+            -121.89747116050728
+        ]
+    },
+    {
+        "name": "KFC",
+        "category": "fast_food",
+        "address": "South Main Street",
+        "coords": [
+            37.429595449999994,
+            -121.9069969
+        ]
+    },
+    {
+        "name": "Dixon Landing Park",
+        "category": "park",
+        "address": NaN,
+        "coords": [
+            37.452496980895084,
+            -121.91585644016938
+        ]
+    },
+    {
+        "name": "Century 20 Great Mall and XD",
+        "category": "cinema",
+        "address": "Great Mall Drive",
+        "coords": [
+            37.4181804370266,
+            -121.89914695876392
+        ]
+    },
+    {
+        "name": "Great Mall",
+        "category": "mall",
+        "address": "Great Mall Drive",
+        "coords": [
+            37.41555289111106,
+            -121.89728628965119
+        ]
+    },
+    {
+        "name": "Red Lobster",
+        "category": "restaurant",
+        "address": "East Calaveras Boulevard",
+        "coords": [
+            37.433350978258055,
+            -121.89628875296424
+        ]
+    },
+    {
+        "name": "Chick-fil-A",
+        "category": "fast_food",
+        "address": "East Calaveras Boulevard",
+        "coords": [
+            37.4338659090778,
+            -121.8939962202528
+        ]
+    },
+    {
+        "name": "Ben Rogers Park",
+        "category": "park",
+        "address": NaN,
+        "coords": [
+            37.42768266556591,
+            -121.86741587015189
+        ]
+    },
+    {
+        "name": "Calle Oriente Park",
+        "category": "park",
+        "address": NaN,
+        "coords": [
+            37.44641791470674,
+            -121.8889922286821
+        ]
+    },
+    {
+        "name": "Creighton Park",
+        "category": "park",
+        "address": NaN,
+        "coords": [
+            37.42271324695242,
+            -121.88093583759952
+        ]
+    },
+    {
+        "name": "Foothill Park",
+        "category": "park",
+        "address": NaN,
+        "coords": [
+            37.43112735189937,
+            -121.87542145196507
+        ]
+    },
+    {
+        "name": "Hidden Lake Park",
+        "category": "park",
+        "address": NaN,
+        "coords": [
+            37.44011727619344,
+            -121.9058537598048
+        ]
+    },
+    {
+        "name": "Hillcrest Park",
+        "category": "park",
+        "address": NaN,
+        "coords": [
+            37.423908727763354,
+            -121.86586177072157
+        ]
+    },
+    {
+        "name": "John McDermott Park",
+        "category": "park",
+        "address": NaN,
+        "coords": [
+            37.42336149497546,
+            -121.90744205274014
+        ]
+    },
+    {
+        "name": "O'Toole Elms Park",
+        "category": "park",
+        "address": NaN,
+        "coords": [
+            37.41995082732498,
+            -121.90527270879014
+        ]
+    },
+    {
+        "name": "Park Metro Central Park",
+        "category": "park",
+        "address": NaN,
+        "coords": [
+            37.41917794302453,
+            -121.9007030012309
+        ]
+    },
+    {
+        "name": "Park Metro East Park",
+        "category": "park",
+        "address": NaN,
+        "coords": [
+            37.4203990575503,
+            -121.89748744441542
+        ]
+    },
+    {
+        "name": "Park Metro West Park",
+        "category": "park",
+        "address": NaN,
+        "coords": [
+            37.41910314237807,
+            -121.90201848767815
+        ]
+    },
+    {
+        "name": "Pinewood Park",
+        "category": "park",
+        "address": NaN,
+        "coords": [
+            37.40905696366835,
+            -121.90817810166517
+        ]
+    },
+    {
+        "name": "Selwyn Park",
+        "category": "park",
+        "address": NaN,
+        "coords": [
+            37.43221150829424,
+            -121.8844050173154
+        ]
+    },
+    {
+        "name": "Tom Evatt Park",
+        "category": "park",
+        "address": NaN,
+        "coords": [
+            37.422910596231034,
+            -121.90445253384156
+        ]
+    },
+    {
+        "name": "Tom Evatt Park",
+        "category": "park",
+        "address": NaN,
+        "coords": [
+            37.4210397270358,
+            -121.90952454150016
+        ]
+    },
+    {
+        "name": "Safeway",
+        "category": "supermarket",
+        "address": "East Calaveras Boulevard",
+        "coords": [
+            37.43506884502717,
+            -121.89800462922531
+        ]
+    },
+    {
+        "name": "Fosters Freeze",
+        "category": "fast_food",
+        "address": "Serra Way",
+        "coords": [
+            37.427765542641716,
+            -121.90750671982973
+        ]
+    },
+    {
+        "name": "Golden Sun Palace",
+        "category": "restaurant",
+        "address": "North Milpitas Boulevard",
+        "coords": [
+            37.454995530442105,
+            -121.91055816652536
+        ]
+    },
+    {
+        "name": "Starbucks",
+        "category": "cafe",
+        "address": "West Calaveras Boulevard",
+        "coords": [
+            37.429297649999995,
+            -121.90934769999998
+        ]
+    },
+    {
+        "name": "Carl's Jr.",
+        "category": "fast_food",
+        "address": "McCandless Drive",
+        "coords": [
+            37.4047303,
+            -121.89763005
+        ]
+    },
+    {
+        "name": "Starbucks",
+        "category": "cafe",
+        "address": "California Circle",
+        "coords": [
+            37.451640808447635,
+            -121.92143941645924
+        ]
+    },
+    {
+        "name": "Jack in the Box",
+        "category": "fast_food",
+        "address": "South Main Street",
+        "coords": [
+            37.4056646,
+            -121.90241219999997
+        ]
+    },
+    {
+        "name": "St. John School field",
+        "category": "park",
+        "address": NaN,
+        "coords": [
+            37.42593404679539,
+            -121.9060476974463
+        ]
+    },
+    {
+        "name": "Alviso Adobe Park",
+        "category": "park",
+        "address": NaN,
+        "coords": [
+            37.43804796060466,
+            -121.87070219394568
+        ]
+    },
+    {
+        "name": "Murphy Park",
+        "category": "park",
+        "address": NaN,
+        "coords": [
+            37.4265614551811,
+            -121.87555151831572
+        ]
+    },
+    {
+        "name": "John McDermott Park",
+        "category": "park",
+        "address": NaN,
+        "coords": [
+            37.42259606666667,
+            -121.90732573333332
+        ]
+    },
+    {
+        "name": "Augustus Rathbone Park",
+        "category": "park",
+        "address": NaN,
+        "coords": [
+            37.405794378060115,
+            -121.89297052611876
+        ]
+    },
+    {
+        "name": "Taco Bell",
+        "category": "fast_food",
+        "address": "South Main Street",
+        "coords": [
+            37.420040866212275,
+            -121.90379251784367
+        ]
+    },
+    {
+        "name": "Bob McGuire Park",
+        "category": "park",
+        "address": NaN,
+        "coords": [
+            37.41430617814343,
+            -121.890041154475
+        ]
+    },
+    {
+        "name": "Wayback Burgers",
+        "category": "fast_food",
+        "address": "California Circle",
+        "coords": [
+            37.45176005805896,
+            -121.92148294320702
+        ]
+    },
+    {
+        "name": "Me-Kong Super Market",
+        "category": "supermarket",
+        "address": "East Capitol Avenue",
+        "coords": [
+            37.40813214888708,
+            -121.88817028088751
+        ]
+    },
+    {
+        "name": "Ph\u1edf Factory",
+        "category": "restaurant",
+        "address": NaN,
+        "coords": [
+            37.40680424282948,
+            -121.88823055660052
+        ]
+    },
+    {
+        "name": "Zahir's Bistro",
+        "category": "restaurant",
+        "address": "South Main Street",
+        "coords": [
+            37.42213911863503,
+            -121.90515455639736
+        ]
+    },
+    {
+        "name": "Subway",
+        "category": "fast_food",
+        "address": "California Circle",
+        "coords": [
+            37.45228544642684,
+            -121.92100552128593
+        ]
+    },
+    {
+        "name": "Delano Manongs Park",
+        "category": "park",
+        "address": NaN,
+        "coords": [
+            37.407343009623546,
+            -121.89829155878974
+        ]
+    }
+]

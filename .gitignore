@@ -1,0 +1,20 @@
+# --- Ignore Massive Model Files ---
+*.safetensors
+*.pt
+*.bin
+*.pth
+adapter_model.bin
+pytorch_model.bin
+
+# --- Ignore Model Folders ---
+orbit_model_v1/
+orbit_model_v2/
+orbit_checkpoints/
+orbit_checkpoints_v2/
+cache/
+
+# --- Ignore System Files ---
+__pycache__/
+*.pyc
+venv/
+.env
