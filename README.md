@@ -1,4 +1,4 @@
-# Orbit: Context-Aware AI Navigator
+# Orbit: AI Navigator
 
 Orbit is a local, voice-enabled navigation assistant built to explore the limits of Small Language Models (SLMs) on consumer hardware.
 
@@ -38,7 +38,7 @@ Standard search is rigid. Orbit calculates relative positions:
 
 ## Project Structure
 
-* 19_orbit_v25.py - The Main Application: Orchestrates the UI, AI inference, and Map logic.
+* 19_orbit_v41.py - The Main Application: Orchestrates the UI, AI inference, and Map logic.
 * milpitas_final.json - Local Database: A cleaned dataset of places used to simulate a production vector DB.
 * orbit_model_v2/ - The Adapter: [Not included in repo due to size] The custom weights that give Orbit its personality.
 * requirements.txt - Dependencies required to run the environment.
