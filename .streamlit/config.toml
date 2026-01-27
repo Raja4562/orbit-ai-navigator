@@ -1,0 +1,6 @@
+[server]
+headless = true
+enableCORS = false
+enableXsrfProtection = false
+address = "127.0.0.1"
+port = 8501

@@ -1,11 +1,10 @@
 streamlit
+torch
+transformers
+peft
 folium
 streamlit-folium
 geopy
 requests
-torch
-transformers
-peft
-bitsandbytes
 accelerate
-scipy
+bitsandbytes
