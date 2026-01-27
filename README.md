@@ -38,22 +38,22 @@ Standard search is rigid. Orbit calculates relative positions:
 
 ## Project Structure
 
-* 19_orbit_v25.py - The Main Application: Orchestrates the UI, AI inference, and Map logic.
-* milpitas_final.json - Local Database: A cleaned dataset of places used to simulate a production vector DB.
-* orbit_model_v2/ - The Adapter: [Not included in repo due to size] The custom weights that give Orbit its personality.
-* requirements.txt - Dependencies required to run the environment.
+* `app.py` - The Main Application: Orchestrates the UI, AI inference, and Map logic.
+* `milpitas_final.json` - Local Database: A cleaned dataset of places used to simulate a production vector DB.
+* `orbit_model_v2/` - The Adapter: The custom weights that give Orbit its personality.
+* `requirements.txt` - Dependencies required to run the environment.
 
 ## How to Run
 
-1. Install Dependencies:
+1. **Install Dependencies:**
+   ```bash
    pip install -r requirements.txt
 
 2. Model Setup:
-   This project requires the Phi-3 base model and my custom Orbit V2 LoRA adapter.
-   Note: The adapter files are too large for GitHub. You would need to run the training script (train.py) locally to regenerate them.
+   This project requires the Phi-3 base model and my custom Orbit V2 LoRA adapter. Ensure the orbit_model_v2 folder is present in the directory (it is included in this repository).
 
 3. Launch:
-   streamlit run 19_orbit_v41.py
+   streamlit run app.py
 
 ---
 Created by Raja Prabakaran
